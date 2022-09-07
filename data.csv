@@ -1,0 +1,151 @@
+user_id,tag_id,activity,hours,creation_date
+4,3,played some games,22.4,Tue Aug 30 2022
+4,6,refactored code,19.8,Fri Aug 26 2022
+2,5,fixing issue,22.6,Sat Sep 10 2022
+1,1,attended scrum,4.7,Mon Aug 22 2022
+1,2,fix login issue,18.2,Thu Aug 25 2022
+2,6,refactored code,4.6,Mon Aug 29 2022
+4,6,implemented CRUD feature,6.7,Tue Aug 30 2022
+1,6,played some games,19,Tue Aug 23 2022
+5,4,played some games,21.7,Tue Aug 23 2022
+3,2,played some games,17.6,Mon Aug 22 2022
+5,5,refactored code,10.2,Sat Aug 27 2022
+3,4,fixing issue,15.8,Thu Sep 01 2022
+2,3,sprint retro,20.2,Mon Sep 05 2022
+2,1,refactored code,23.5,Sun Aug 21 2022
+1,5,sprint retro,19.1,Sun Sep 04 2022
+2,5,fix login issue,4.8,Mon Sep 05 2022
+2,6,attended scrum,5.5,Fri Sep 02 2022
+5,4,fixing issue,6,Fri Aug 26 2022
+4,1,fixing issue,12.9,Mon Sep 05 2022
+2,6,fix login issue,8.1,Mon Aug 29 2022
+3,2,refactored code,16.4,Fri Sep 02 2022
+1,6,fix login issue,19.2,Fri Aug 26 2022
+1,3,implemented CRUD feature,2.6,Sun Aug 28 2022
+4,6,sprint retro,1.3,Sat Sep 03 2022
+2,2,sprint retro,9.2,Fri Aug 26 2022
+4,3,played some games,7.8,Wed Aug 31 2022
+3,3,refactored code,12.2,Sat Sep 03 2022
+3,1,implemented CRUD feature,1.1,Tue Aug 30 2022
+4,4,implemented CRUD feature,18.4,Sat Aug 27 2022
+5,4,implemented CRUD feature,9.8,Thu Sep 01 2022
+5,2,implemented CRUD feature,8.3,Thu Sep 01 2022
+1,1,fixing issue,6.6,Sun Aug 28 2022
+3,1,implemented CRUD feature,13.9,Tue Aug 23 2022
+2,4,fixing issue,5.3,Wed Aug 31 2022
+2,5,refactored code,8.4,Thu Aug 25 2022
+1,5,fix login issue,11.7,Tue Aug 23 2022
+2,1,played some games,1.3,Fri Sep 09 2022
+2,3,attended scrum,20.8,Mon Sep 05 2022
+3,4,played some games,22.7,Sun Aug 28 2022
+1,6,implemented CRUD feature,19.6,Wed Sep 07 2022
+3,5,attended scrum,6.3,Mon Aug 29 2022
+1,4,fix login issue,14.6,Mon Sep 05 2022
+4,2,implemented CRUD feature,1.5,Thu Aug 25 2022
+5,3,attended scrum,16.4,Tue Aug 23 2022
+4,2,refactored code,16.6,Sun Sep 04 2022
+3,3,sprint retro,23.9,Thu Aug 25 2022
+3,6,sprint retro,2.2,Sat Sep 03 2022
+3,5,refactored code,15.5,Mon Aug 29 2022
+3,5,refactored code,15.1,Sun Sep 04 2022
+3,6,fix login issue,13.5,Sun Aug 21 2022
+1,3,sprint retro,1.1,Wed Sep 07 2022
+4,1,sprint retro,21.8,Wed Aug 31 2022
+4,2,implemented CRUD feature,15.5,Thu Sep 01 2022
+3,5,played some games,1.1,Wed Aug 31 2022
+5,2,sprint retro,11.1,Mon Sep 05 2022
+4,4,sprint retro,14.9,Thu Sep 01 2022
+1,3,played some games,3.4,Tue Aug 30 2022
+2,1,implemented CRUD feature,12.3,Tue Aug 30 2022
+4,6,attended scrum,7.7,Sun Aug 21 2022
+4,4,attended scrum,18.7,Tue Aug 23 2022
+1,1,refactored code,1.9,Sat Sep 03 2022
+4,6,attended scrum,15.1,Sat Sep 10 2022
+1,3,fixing issue,21.7,Fri Aug 26 2022
+4,1,refactored code,8.5,Sat Sep 03 2022
+4,2,implemented CRUD feature,20.8,Sun Aug 21 2022
+2,6,fix login issue,9.8,Wed Aug 24 2022
+4,4,attended scrum,6.2,Wed Sep 07 2022
+5,3,attended scrum,18.5,Wed Sep 07 2022
+5,5,implemented CRUD feature,6.9,Sat Aug 27 2022
+5,5,sprint retro,6.9,Wed Aug 24 2022
+5,1,played some games,11.9,Tue Aug 30 2022
+5,3,fixing issue,2.5,Sun Sep 04 2022
+1,5,fix login issue,8.8,Mon Aug 29 2022
+4,3,refactored code,20.1,Wed Aug 31 2022
+1,3,fixing issue,19.7,Tue Aug 23 2022
+5,1,sprint retro,8.3,Tue Sep 06 2022
+2,1,sprint retro,5,Sat Sep 10 2022
+5,2,played some games,11.7,Mon Aug 29 2022
+4,3,refactored code,19.4,Sat Sep 10 2022
+5,6,played some games,5,Mon Aug 22 2022
+1,5,refactored code,9,Sat Sep 10 2022
+2,3,fixing issue,2.3,Fri Sep 09 2022
+2,6,refactored code,2.8,Fri Sep 09 2022
+1,1,attended scrum,4.8,Sat Sep 10 2022
+4,5,fix login issue,16.1,Sat Aug 27 2022
+4,6,fixing issue,5.1,Mon Sep 05 2022
+4,4,fix login issue,20.5,Wed Aug 31 2022
+1,6,fix login issue,20.2,Mon Aug 22 2022
+1,1,implemented CRUD feature,11,Sat Sep 03 2022
+3,4,refactored code,13.1,Sat Aug 27 2022
+2,3,implemented CRUD feature,21.5,Sun Aug 28 2022
+4,5,refactored code,5.8,Sun Aug 21 2022
+5,6,sprint retro,21.4,Thu Aug 25 2022
+2,3,played some games,23.6,Thu Sep 01 2022
+1,2,refactored code,8,Mon Aug 29 2022
+3,4,sprint retro,23.4,Sun Aug 21 2022
+1,5,implemented CRUD feature,20.1,Fri Aug 26 2022
+1,4,played some games,7.4,Sun Aug 28 2022
+4,6,sprint retro,7.9,Thu Aug 25 2022
+5,5,refactored code,19.8,Thu Sep 08 2022
+4,4,sprint retro,11.7,Thu Sep 08 2022
+5,1,fixing issue,3.1,Fri Aug 26 2022
+5,2,refactored code,11.2,Sat Sep 10 2022
+1,4,implemented CRUD feature,2.1,Wed Aug 31 2022
+2,2,fixing issue,12.3,Fri Sep 02 2022
+3,4,implemented CRUD feature,10.6,Sat Sep 03 2022
+3,3,implemented CRUD feature,7.5,Thu Aug 25 2022
+4,4,fix login issue,16.1,Sat Sep 03 2022
+1,3,played some games,22.9,Fri Sep 02 2022
+3,3,refactored code,15.4,Sun Sep 04 2022
+1,3,fix login issue,12.2,Tue Aug 23 2022
+5,2,fix login issue,15.7,Tue Sep 06 2022
+3,2,refactored code,6.9,Fri Sep 09 2022
+1,1,played some games,23.9,Mon Aug 22 2022
+3,3,fixing issue,12,Mon Sep 05 2022
+3,3,implemented CRUD feature,2.4,Sat Aug 27 2022
+5,2,played some games,10.2,Thu Aug 25 2022
+2,4,played some games,8.1,Thu Sep 08 2022
+5,4,refactored code,1.4,Fri Sep 02 2022
+1,3,fixing issue,5.4,Mon Aug 29 2022
+2,1,sprint retro,18.5,Sat Sep 10 2022
+1,5,implemented CRUD feature,23.3,Sun Aug 28 2022
+4,5,attended scrum,20.6,Tue Aug 30 2022
+5,1,fix login issue,23.9,Wed Aug 31 2022
+1,3,implemented CRUD feature,1.6,Fri Sep 09 2022
+4,5,played some games,7.4,Sat Sep 10 2022
+4,2,refactored code,11.5,Tue Aug 30 2022
+4,3,attended scrum,2.4,Thu Aug 25 2022
+1,4,played some games,21.8,Sat Sep 03 2022
+5,3,attended scrum,8.9,Tue Aug 30 2022
+1,3,refactored code,12.3,Thu Sep 08 2022
+1,4,sprint retro,5.8,Sun Aug 21 2022
+4,2,played some games,13.3,Wed Aug 31 2022
+3,2,refactored code,12.2,Mon Sep 05 2022
+2,1,implemented CRUD feature,16.2,Fri Aug 26 2022
+4,2,fixing issue,8.6,Thu Aug 25 2022
+5,1,fix login issue,8,Tue Aug 23 2022
+2,2,fixing issue,12.5,Thu Sep 01 2022
+5,3,sprint retro,14.6,Fri Aug 26 2022
+2,3,sprint retro,16.4,Sun Aug 28 2022
+4,6,fixing issue,4.9,Mon Sep 05 2022
+2,2,sprint retro,21.8,Tue Aug 23 2022
+1,6,sprint retro,7.5,Thu Sep 01 2022
+4,2,fixing issue,23.7,Fri Sep 02 2022
+4,5,attended scrum,23.3,Sat Aug 27 2022
+2,1,fixing issue,20.1,Wed Sep 07 2022
+2,6,fix login issue,14.3,Sat Sep 10 2022
+4,1,sprint retro,16.9,Mon Aug 22 2022
+4,3,fixing issue,12.8,Sun Aug 21 2022
+4,6,sprint retro,15.7,Thu Sep 08 2022
